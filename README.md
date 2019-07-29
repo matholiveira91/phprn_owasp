@@ -7,11 +7,11 @@
 4. @cyberpunkrs 💀
 5. @owaspnatal 😎
 6. localhost  👾
-7. @vulnersBot :bot:
+7. @vulnersBot :robot:
 8. https://t.me/exploitdbrss
-9. https://t.me/OSINT_BR :br:
+9. https://t.me/OSINT_BR :brazil:
 10. https://t.me/pr1v8
-11. https://t.me/DARKNET_BR :br:
+11. https://t.me/DARKNET_BR :brazil:
 
 ## LINKS UTEIS
 [CHEAT SHEET SECURITY](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)
