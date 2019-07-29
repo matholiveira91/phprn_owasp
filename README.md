@@ -14,7 +14,7 @@
 11. https://t.me/DARKNET_BR :br:
 
 ## LINKS UTEIS
-(CHEAT SHEET SECURITY)[https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html]
+[CHEAT SHEET SECURITY](https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html)
 
 
 
